@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d898b6c38345961039255730ceaad3a6" extends="cmdb_ci" label="Devices" max_length="40" name="x_1543720_demosnow_devices" type="collection"/>
+    <element db_object_id="d898b6c38345961039255730ceaad3a6" extends="cmdb_ci" label="Devices" max_length="40" name="x_1543720_demosnow_devices" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="App4" sequence="3" value="app4"/>
+                <element inactive_on_update="false" label="App3" sequence="2" value="app3"/>
+                <element inactive_on_update="false" label="App1" sequence="0" value="app1"/>
+                <element inactive_on_update="false" label="App2" sequence="1" value="app2"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_2" type="price"/>
+    </element>
 </database>

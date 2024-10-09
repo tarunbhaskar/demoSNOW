@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="f694f6ba838d121039255730ceaad3a9" extends="task" label="request" max_length="40" name="x_1543720_demosnow_request" type="collection"/>
+    <element db_object_id="f694f6ba838d121039255730ceaad3a9" extends="task" label="request" max_length="40" name="x_1543720_demosnow_request" type="collection">
+        <element default="0" label="Quantity" max_length="40" name="u_integer_4" type="integer"/>
+        <element attributes="encode_utf8=false" label="Requester Name" mandatory="true" max_length="32" name="u_requester_name_3" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_device_name_2" reference="x_1543720_demosnow_devices" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_state_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="checked" sequence="0" value="checked"/>
+                <element inactive_on_update="false" label="rejected" sequence="1" value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requester Name" mandatory="true" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_delivery_date_5" type="glide_date"/>
+        <element default="0" label="Quantity" mandatory="true" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_reference_2" reference="x_1543720_demosnow_devices" type="reference"/>
+    </element>
 </database>

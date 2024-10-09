@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ef3f9f878301d61039255730ceaad3b8" sys_domain="global" table="x_1543720_demosnow_devices" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-09 17:38:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b33f9f878301d61039255730ceaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1543720_demosnow_devices" name="x_1543720_demosnow_devices" sys_domain="global" view="Default view">ef3f9f878301d61039255730ceaad3b8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543720_demosnow_devices" sys_domain="global" view="Default view">a11a728b8345961039255730ceaad3e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-09 17:38:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-09 17:38:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf3f9f878301d61039255730ceaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1543720_demosnow_devices" name="x_1543720_demosnow_devices" sys_domain="global" view="Default view">ef3f9f878301d61039255730ceaad3b8</sys_ui_form>
+            <sys_ui_section caption="Price and Warranty" display_value="Price and Warranty" name="x_1543720_demosnow_devices" sys_domain="global" view="Default view">233f9f878301d61039255730ceaad3b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-09 17:38:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1543720_demosnow_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-09 17:38:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef3f9f878301d61039255730ceaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1543720_demosnow_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="demoSnow" source="x_1543720_demosnow">6cceeaf2830d121039255730ceaad3db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demoSnow">6cceeaf2830d121039255730ceaad3db</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ef3f9f878301d61039255730ceaad3b8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-09 17:38:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
