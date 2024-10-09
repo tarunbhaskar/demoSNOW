@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d898b6c38345961039255730ceaad3a6" extends="cmdb_ci" label="Devices" max_length="40" name="x_1543720_demosnow_devices" type="collection"/>
+</database>

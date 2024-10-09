@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-09 14:52:20</sys_created_on>
+        <sys_id>b1293ac78345961039255730ceaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1543720_demosnow_devices.x_1543720_demosnow.devices_user</sys_name>
+        <sys_package display_value="demoSnow" source="x_1543720_demosnow">6cceeaf2830d121039255730ceaad3db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demoSnow">6cceeaf2830d121039255730ceaad3db</sys_scope>
+        <sys_security_acl display_value="x_1543720_demosnow_devices">39293ac78345961039255730ceaad38c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b1293ac78345961039255730ceaad392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-09 14:52:20</sys_updated_on>
+        <sys_user_role display_value="x_1543720_demosnow.devices_user" name="x_1543720_demosnow.devices_user">5929f2cf8341961039255730ceaad3f9</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
