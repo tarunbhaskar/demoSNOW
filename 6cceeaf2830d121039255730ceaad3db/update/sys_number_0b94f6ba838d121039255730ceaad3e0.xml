@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1543720_demosnow_request">x_1543720_demosnow_request</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>DR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 19:54:01</sys_created_on>
+        <sys_id>0b94f6ba838d121039255730ceaad3e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DR</sys_name>
+        <sys_package display_value="demoSnow" source="x_1543720_demosnow">6cceeaf2830d121039255730ceaad3db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demoSnow">6cceeaf2830d121039255730ceaad3db</sys_scope>
+        <sys_update_name>sys_number_0b94f6ba838d121039255730ceaad3e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 19:54:01</sys_updated_on>
+    </sys_number>
+</record_update>

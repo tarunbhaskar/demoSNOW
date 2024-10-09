@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 19:54:03</sys_created_on>
+        <sys_id>27943aba838d121039255730ceaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1543720_demosnow_request.x_1543720_demosnow.admin</sys_name>
+        <sys_package display_value="demoSnow" source="x_1543720_demosnow">6cceeaf2830d121039255730ceaad3db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demoSnow">6cceeaf2830d121039255730ceaad3db</sys_scope>
+        <sys_security_acl display_value="x_1543720_demosnow_request">67943aba838d121039255730ceaad35c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_27943aba838d121039255730ceaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 19:54:03</sys_updated_on>
+        <sys_user_role display_value="x_1543720_demosnow.admin" name="x_1543720_demosnow.admin">5403363a838d121039255730ceaad311</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
